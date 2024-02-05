@@ -96,3 +96,11 @@ messages for your app instead of hard-coding them!
 
 Check out the React docs on
 [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html) for a hint.
+
+
+App
+    Contacts
+        Contact
+    Messages
+        Message
+        Form
